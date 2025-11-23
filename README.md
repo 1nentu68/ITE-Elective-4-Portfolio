@@ -1,6 +1,6 @@
 # ITC C508 – ITE Elective 4  
 # Academic Portfolio
-### Semester 4, 4th Year – Activity, Quiz, Exam, and Project Repository
+### 1st Semester 4th Year – Activity, Quiz, Exam, and Project Repository
 ---
 
 ## Subject Description – ITC C508: ITE Elective 4
