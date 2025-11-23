@@ -12,7 +12,7 @@ A part of the course emphasizes transformer-based architectures, including model
 The subject combines theoretical foundations with application-oriented work, preparing students to design, evaluate, and refine intelligent systems that leverage machine-learned language representations. By the end of the course, learners are equipped with the technical background and practical competencies necessary to engage with modern machine learning workflows and advanced NLP techniques.
 
 
-This repository contains the complete set of outputs for ITC C508 – ITE Elective 4.  
+This repository contains my complete set of outputs for ITC C508 – ITE Elective 4.  
 All activities, quizzes, examinations, and project materials are organized by major course phases to ensure clarity, version control, and ease of reference.
 
 ---
@@ -66,6 +66,16 @@ Finals/
     activity04/
     reflection.md
 ```
+## Why is my portfolio on GitHub:
+
+My academic portfolio is hosted on **GitHub** to provide a centralized, accessible, and professional platform for showcasing completed coursework. GitHub was chosen for several key reasons:
+
+- **Accessibility:** GitHub allows easy access from anywhere, making it convenient to share the portfolio with instructors, peers, or potential employers.  
+- **Organization:** Repository structure and folder hierarchy enable clear documentation of all activities, quizzes, exams, and projects in one place.  
+- **Professional Presentation:** GitHub is widely recognized in the tech industry, providing a professional context for demonstrating technical and reflective work.  
+- **Portfolio Integration:** Hosting on GitHub allows seamless inclusion of code, documents, and Markdown reflections, supporting both academic and career development purposes.  
+
+By using GitHub, this portfolio not only documents the learning journey for ITC C508 but also presents it in a structured, professional, and easily shareable manner.
 
 ---
 
@@ -100,11 +110,15 @@ Materials are intended for educational documentation and must not be reproduced,
 
 ---
 
+## Special Acknowledgment
+
+Special thanks to **Dr. Rodolfo Raga** for providing guidance, expertise, and support throughout the duration of ITC C508 – ITE Elective 4. His instruction and commitment to the field of Natural Language Processing and Machine Learning greatly contributed to the depth of learning and the successful completion of the activities, assessments, and project work in this course.
+
+---
+
 ## Author
 Juan Carlos Miguel Timoteo
 4th Year BSIT Student 
 ITC C508 – ITE Elective 4
 
-## Special Acknowledgment
-
-Special thanks to **Dr. Rodolfo Raga** for providing guidance, expertise, and support throughout the duration of ITC C508 – ITE Elective 4. His instruction and commitment to the field of Natural Language Processing and Machine Learning greatly contributed to the depth of learning and the successful completion of the activities, assessments, and project work in this course.
+---
