@@ -27,45 +27,7 @@ Midterm/
 Finals/
 ```
 
-Each section contains subfolders representing the individual activities or assessments assigned during that period.  
-Inside every activity folder are two primary components:
 
-1. **The activity, quiz, or exam submission**  
-2. **A reflection file (`reflection.md`)** documenting insights, challenges, and learnings I had for that task
-
----
-
-## Folder Layout Example
-
-```
-Prelim/
-  Activity-01/
-    activity01.pdf
-    reflection.md
-  Activity-02/
-    activity02.docx
-    reflection.md
-  Quiz-01/
-    quiz01.pdf
-    reflection.md
-
-Midterm/
-  Activity-03/
-    activity03/
-    reflection.md
-  Exam/
-    exam.pdf
-    reflection.md
-
-Finals/
-  Project/
-    source-code/
-    documentation.pdf
-    reflection.md
-  Activity-04/
-    activity04/
-    reflection.md
-```
 ## Why is my portfolio on GitHub:
 
 My academic portfolio is hosted on **GitHub** to provide a centralized, accessible, and professional platform for showcasing completed coursework. GitHub was chosen for several key reasons:
@@ -76,19 +38,6 @@ My academic portfolio is hosted on **GitHub** to provide a centralized, accessib
 - **Portfolio Integration:** Hosting on GitHub allows seamless inclusion of code, documents, and Markdown reflections, supporting both academic and career development purposes.  
 
 By using GitHub, this portfolio not only documents the learning journey for ITC C508 but also presents it in a structured, professional, and easily shareable manner.
-
----
-
-## Reflections
-
-Every reflection follows a consistent format to document progress:
-
-- Objective of the task  
-- Tools, technologies, or methods used  
-- Challenges encountered  
-- Solutions applied  
-- Key learnings and insights  
-- Future improvements  
 
 ---
 
